@@ -1,0 +1,8 @@
+body{background-color:#7B72B4;}
+h1{color: #33D7FF;font-family: "Helvetica";font-size: 47px; text-align: center;}
+p{color: #FFE233 ;font-family: Garamond;font-size: 27px;text-align: center;}
+img{border-width: 5px;border-color: #33FF81 ;border-style: double;}
+a{color: #50755E ;font-family: Garamond;font-size: 12px;text-decoration: blink;}
+a:hover{color: #3433DD ;}
+a:visited{color: #DD33B7;}
+ul{list-style-type:none;}
